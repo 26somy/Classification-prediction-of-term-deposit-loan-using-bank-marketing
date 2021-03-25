@@ -6,3 +6,5 @@ Bank marketing dataset has been used from campaigns of a Portuguese banking inst
 Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
 
 Link to dataset: <https://archive.ics.uci.edu/ml/datasets/Bank+Marketing>
+
+The classification goal is to predict if the client will subscribe a term deposit (variable y).
